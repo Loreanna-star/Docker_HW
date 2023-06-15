@@ -1,0 +1,5 @@
+FROM nginx
+
+EXPOSE 6061
+
+WORKDIR hw_docker
